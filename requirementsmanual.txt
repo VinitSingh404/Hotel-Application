@@ -3,3 +3,12 @@ username-Vinit@18
 password-admin
 
 Contact page check once so that You came to know about database things.
+
+After downloading or cloning my repo just type
+
+python manage.py runserver
+
+if its not works type
+python manage.py makemigrations
+python manage.py migrate and after running both two commands type
+python manage.py runserver so it will run.
