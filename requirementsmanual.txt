@@ -1,0 +1,5 @@
+Admin server 
+username-Vinit@18 
+password-admin
+
+Contact page check once so that You came to know about database things.
